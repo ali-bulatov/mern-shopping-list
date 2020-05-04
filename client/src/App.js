@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import AppNavbar from './components/AppNavbar';
 import ShoppingList from './components/ShoppingList';
 import ItemModal from './components/ItemModal';
-import { Contaienr, Container } from 'reactstrap';
+import { Container } from 'reactstrap';
 
 import { Provider } from 'react-redux';
 import  store from './store';
